@@ -1,5 +1,4 @@
 # Advanced Solana Bootcamp
 
 ### 1.Hafta
-
-Ödev - 1
+<b>[Example | Wallet Functionality - 1](href="https://github.com/bgraokmush/AdvancedSolana/tree/Hafta-1")</b>
