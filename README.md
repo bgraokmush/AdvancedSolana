@@ -1,5 +1,2 @@
-# Advanced Solana Bootcamp
+# Wallet Functionality
 
-### 1.Hafta
-
-Ödev - 1
